@@ -1,1 +1,1 @@
-jdk.attach,jdk.naming.rmi,openj9.sharedclasses
+jdk.attach,jdk.naming.rmi,openj9.sharedclasses,openj9.criu,java.compiler
